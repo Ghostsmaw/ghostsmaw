@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
 
-- 🌱 I’m currently learning **New Technologies and stacks 😊💻**
+- 🌱 I’m currently freelancing and learning **New Technologies and stacks 😊💻**
 
 - 👨‍💻 All of my projects are available at [https://ghostsmaw.netlify.app/](https://ghostsmaw.netlify.app/)
 
