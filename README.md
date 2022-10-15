@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
   <td valign="center">
     🎓 I am graduate in **Bachelor's in Mathematics**.
-    🌱 I am a **Fullstack | Mobile Developer** and also currently learning new Technologies **Java**.
+    🌱 I am a **Frontend | Web3 Developer** and also currently learning new Technologies **Java**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to **Code**, **Travel New Places**, **Learn** and drink **coffee😄**.
 <td >
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
 
 - 🌱 I’m currently freelancing and learning **New Technologies and stacks 😊💻**
-
-- 👨‍💻 All of my projects are available at [https://ghostsmaw.netlify.app/](https://ghostsmaw.netlify.app/)
 
 - 💬 Ask me about **Html, Css, Bootstrap, Javascript, Jquery, ExpressJs, ReactJs, NodeJs, MongoDb**
 
