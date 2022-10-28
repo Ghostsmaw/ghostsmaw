@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently freelancing and learning **New Technologies and stacks 😊💻**
 
-- 💬 Ask me about **Html, Css, Bootstrap, Javascript, Jquery, ExpressJs, ReactJs, NodeJs, MongoDb**
+- 💬 Ask me about **Html, Css, Bootstrap, Tailwind, Material Ui Javascript, Jquery, ExpressJs, ReactJs, NextJs, NodeJs, MongoDb**
 
 - 📫 How to reach me **ghostsmaw@gmail.com**
 
