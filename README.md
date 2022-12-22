@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ghostsmaw@gmail.com**
 
-- 📄 Resume / Know about my experiences [https://drive.google.com/file/d/1lj3RJqs9MHxDC_iXpMk1NV47hMhUR-tO/view](https://drive.google.com/file/d/1lj3RJqs9MHxDC_iXpMk1NV47hMhUR-tO/view)
+- 📄 Resume / Know about my experiences https://drive.google.com/file/d/1IxcU-oAh2Ky7AWHh0WX1tj4kwB1cO58V/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
