@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ghost</h1>
-<h3 align="center">A Fontend | Web3 | Web2 developer from 🌎</h3>
+<h3 align="center">A Fontend | Web3 | Web2 developer| Content & Technical Writer | from 🌎</h3>
 
 - 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
 
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ghostsmaw@gmail.com**
 
 - 📄 Resume / Know about my experiences https://drive.google.com/file/d/1IxcU-oAh2Ky7AWHh0WX1tj4kwB1cO58V/view
+
+- Medium Link / Explore some fabrics of my mind 🤓 https://medium.com/@ghostsmaw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
