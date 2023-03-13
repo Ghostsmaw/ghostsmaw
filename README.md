@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 📄 Resume / Know about my experiences https://drive.google.com/file/d/1IxcU-oAh2Ky7AWHh0WX1tj4kwB1cO58V/view
 
-- Medium Link / Explore some fabrics of my mind 🤓 https://medium.com/@ghostsmaw
+- Medium Link / I Create Technical Documentation and Content Writing... Explore some fabrics of my mind 🤓 https://medium.com/@ghostsmaw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
