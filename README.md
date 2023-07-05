@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ghost</h1>
-<h3 align="center">A Fontend | Web3 | Web2 developer| Content & Technical Writer | Junior Cybersecurity Analyst & Engineer from 🌎</h3>
+<h3 align="center">Fontend | Web3 | Web2 developer| Content & Technical Writer | Junior Cybersecurity Analyst & Engineer from 🌎</h3>
 
 - 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
 
