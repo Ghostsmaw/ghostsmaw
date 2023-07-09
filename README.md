@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ghostsmaw@gmail.com**
 
-- 📄 Resume / Know about my experiences https://drive.google.com/file/d/1eamzKpZpr58xo2Y48vkplNDf6pyqT20a/view?usp=sharing
+- 📄 Resume / Know about my experiences https://drive.google.com/file/d/1dibCn36TC7YrD5VBsyFj7ptaYhZ5ExWX/view?usp=sharing
 
 - Medium Link / I Create Technical Documentation and a Content Writer... Explore some fabrics of my mind 🤓 https://medium.com/@ghostsmaw
 
