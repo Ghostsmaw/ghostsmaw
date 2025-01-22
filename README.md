@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Connect with Me</h3>
 <ul>
-  <li><a href="url">🐦 Twitter</a></li>
-  <li><a href="url">💼 LinkedIn</a></li>
-  <li><a href="url">📩 Email</a></li>
+  <li><a href="[url](https://x.com/ghostsmaw)">🐦 Twitter</a></li>
+  <li><a href="[url](https://www.linkedin.com/in/williams-peter-4b8bb4177/)">💼 LinkedIn</a></li>
+  <li><a href="mailto:williamspeter01010101@gmail.com">📩 Email</a></li>
   <li><a href="url">📜 Resume</a></li>
 </ul>
 
