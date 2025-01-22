@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <h3 align="left">🌟About Me</h3>
 <ul>
   <li>💻 I'm passionate about building scalable and efficient Web2 & Web3 solutions.</li>
+  🛠️ Skilled in:
   <li>
-    🛠️ Skilled in:
     <li>Frontend: HTML, CSS, Bootstrap, Tailwind, ReactJS, NextJS, Material-UI</li>
     <li>Backend: NodeJS, Python (Django, Flask), ExpressJS</li>
     <li>Web3: Ethereum, Solana, Algorand, Polygon</li>
