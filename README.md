@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌟About Me</h3>
 <ul>
-  <li>💻 I'm passionate about building scalable and efficient Web2 & Web3 solutions.</li>
+  <li>💻 I'm passionate about building scalable and efficient Web2 & Web3 solutions. </li>
+  <li>🌍 I'm currently working on exciting Web3 dApps and exploring AI-powered technologies.</li>
+  <li>✍️ I create technical documentation and write content to share insights into tech and programming.</li>
 </ul>
 <h3 align="left">🛠️ Skilled in:</h3>
 <ul>
