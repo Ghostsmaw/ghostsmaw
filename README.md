@@ -32,19 +32,19 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ghost</h1>
-<h3 align="center">FullStack Engineer (MERN) | Web3 | Web2 Frontend Developer| Content & Technical Writer | Junior Cybersecurity Analyst & Engineer from 🌎</h3>
+<h3 align="center">🚀 FullStack Engineer (MERN) | Web3 Frontend Developer | Python/Django/Flask Engineer | AI/ML Enthusiast | Pentester 🌎</h3>
 
-- 🔭 I’m currently working on [Myself🧘 and Exciting Technology](#)
+<h3 align="left">🌟About Me</h3>
+- 💻 I'm passionate about building scalable and efficient Web2 & Web3 solutions.
+- 🛠️ Skilled in:
+  - Frontend: HTML, CSS, Bootstrap, Tailwind, ReactJS, NextJS, Material-UI
+  - Backend: NodeJS, Python (Django, Flask), ExpressJS
+  - Web3: Ethereum, Solana, Algorand, Polygon
+  - Database: MongoDB, SQL
+  - DevOps: Docker, CI/CD
+  - AI/ML: TensorFlow, scikit-learn, pytorch
+  - Cybersecurity: Pentesting tools (Nmap, Burp Suite, Metasploit) and Linux (Kali, Parrot, & BlackArch Linux)
 
-- 🌱 I’m currently freelancing and learning **New Technologies and stacks 😊💻**
-
-- 💬 Ask me about **Html, Css, Bootstrap, Tailwind, Material Ui Javascript, ReactJs, NextJs, NodeJs, Web3, Ethereum, Solana, Algorand, Polygon, MongoDb**
-
-- 📫 How to reach me **ghostsmaw@gmail.com**
-
-- 📄 Resume / Know about my experiences https://drive.google.com/file/d/1dibCn36TC7YrD5VBsyFj7ptaYhZ5ExWX/view?usp=sharing
-
-- Medium Link / I Create Technical Documentation and a Content Writer... Explore some fabrics of my mind 🤓 https://medium.com/@ghostsmaw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
