@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <ul>
   <li>💻 I'm passionate about building scalable and efficient Web2 & Web3 solutions. </li>
   <li>🌍 I'm currently working on exciting Web3 dApps and exploring AI-powered technologies.</li>
+  <li>🔒 I have hands-on experience in penetration testing, vulnerability assessment, and developing tools for network security.</li>
   <li>✍️ I create technical documentation and write content to share insights into tech and programming.</li>
 </ul>
 <h3 align="left">🛠️ Skilled in:</h3>
@@ -73,8 +74,4 @@ Here are some ideas to get you started:
   <li><a href="url">📩 Email</a></li>
   <li><a href="url">📜 Resume</a></li>
 </ul>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostsmaw&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostsmaw&layout=compact&theme=radical)  
 
