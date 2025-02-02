@@ -46,11 +46,11 @@ Here are some ideas to get you started:
     <li>Frontend: HTML, CSS, Bootstrap, Tailwind, ReactJS, NextJS, Material-UI</li>
     <li>Backend: NodeJS, Python (Django, Flask), ExpressJS</li>
     <li>Mobile: React Native</li>
-    <li>Web3: Ethereum, Solana, Algorand, Polygon, Web3.js, Ether.js</li>
+    <li>Web3: Smart Contract Developer, Solidity, Ethereum, Solana, Algorand, Polygon, Web3.js, Ether.js</li>
     <li>Database: MongoDB, SQL</li>
     <li>DevOps: Docker, CI/CD, AWS</li>
     <li>AI/ML: TensorFlow, scikit-learn, pytorch</li>
-    <li>Cybersecurity: Pentesting tools (Nmap, Burp Suite, Metasploit) and Linux (Kali, Parrot, & BlackArch Linux)</li>
+    <li>Cybersecurity: Security Researcher, Ethical Hacker, Penetester (Nmap, Burp Suite, Metasploit) and Linux (Kali, Parrot, & BlackArch Linux)</li>
 </ul>
 
 <h3 align="left">🏆 Achievements</h3>
