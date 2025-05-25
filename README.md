@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ghost</h1>
-<h3 align="center">🚀 FullStack Engineer (MERN) | Web3 Frontend Developer | Python/Django/Flask Engineer | AI/ML Enthusiast | Pentester 🌎</h3>
+<h3 align="center">🚀 FullStack Engineer | Blockchain Engineer | AI/ML Engineer | Security Researcher & Engineer 🌎</h3>
 
 <h3 align="left">🌟About Me</h3>
 <ul>
